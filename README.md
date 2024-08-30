@@ -21,10 +21,10 @@ Langkah-Langkah Instalasi Sistem Operasi Linux Ubuntu
 12.	Lalu klik ok kemudian klik start 
 13.	Pada bagian “Try Or Install Ubuntu” tekan Enter ![11](./Word/11.png)
 14.	Atur Keyboard Layout Lalu Klik next ![12](./Word/12.png)
-15.	Klik Next ![13](./Word/13.png)
-16.	Klik Next ![14](./Word/14.png)
+15.	Atur Aksesibilitas bila diperlukan ![13](./Word/13.png)
+16.	Pilih Layout Keyboard, umumnya English ![14](./Word/14.png)
 17.	Klik Use Wired Connection dan Next ![15](./Word/15.png)
-18.	Klik Skip ![16](./Word/16.png)
+18.	Klik Skip untuk melewati update installer ![16](./Word/16.png)
 19.	Klik Install Ubuntu dan Next ![17](./Word/17.png)
 20.	Pilih Interactive Installation dan Next ![18](./Word/18.png)
 21.	Pilih Install Ubuntu ![19](./Word/19.png)
