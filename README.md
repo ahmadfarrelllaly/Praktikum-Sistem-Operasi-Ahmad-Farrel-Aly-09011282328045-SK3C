@@ -7,7 +7,7 @@ Praktikum Sistem Operasi
 1.	Buatlah laporan proses instalasi di computer mahasiswa dan tampilkan screenshotnya.
 Langkah-Langkah Instalasi Sistem Operasi Linux Ubuntu 
 
-1.	Kunjungi situs https://ubuntu.com/download/desktop untuk mengunduh ISO Linux Ubuntu ![https://github.com/ahmadfarrelllaly/Praktikum-Sistem-Operasi-Ahmad-Farrel-Aly-09011282328045-SK3C/blob/main/Word/1.png]
+1.	Kunjungi situs https://ubuntu.com/download/desktop untuk mengunduh ISO Linux Ubuntu ![https://github.com/ahmadfarrelllaly/Praktikum-Sistem-Operasi-Ahmad-Farrel-Aly-09011282328045-SK3C/blob/main/Word/1.png)
 2.	Kemudian kunjungi https://www.virtualbox.org/wiki/Downloads untuk mengunduh Virtual Box https://github.com/ahmadfarrelllaly/Praktikum-Sistem-Operasi-Ahmad-Farrel-Aly-09011282328045-SK3C/blob/main/Word/2.png
 3.	Setelah itu, lakukan instalasi pada Virtual Box dan buka aplikasinya
 4.	Klik New untuk membuat Virtual Machine Baru 
