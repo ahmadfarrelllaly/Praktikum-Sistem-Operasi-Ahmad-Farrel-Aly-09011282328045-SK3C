@@ -1,4 +1,4 @@
-![Langkah-Langkah Instalasi Linux Ubuntu 24.04]
+# [Langkah-Langkah Instalasi Linux Ubuntu 24.04]
 
 Ahmad Farrel Aly
 09011282328045
